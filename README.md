@@ -21,7 +21,3 @@ Descripción:
   - [Publico objetivo](./3.-publicoObjetivo.jpg)
   - [Crea tu primer Wireframe UX](https://www.figma.com/file/cbvi7hyuqyVgOKn9pCqRES/Abogabot?node-id=0%3A1)
   - [Ahora el UI](https://www.figma.com/file/cbvi7hyuqyVgOKn9pCqRES/Abogabot?node-id=0%3A1)
-
-Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
-
-***¡Vámonos hasta el espacio y más allá Explorers!***
