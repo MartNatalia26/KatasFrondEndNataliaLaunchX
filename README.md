@@ -16,8 +16,8 @@ Descripción:
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 - **Practicas**
 
-  - [Toma de requerimientos](./1.-requerimientos.pdf)
-  - [Crea tu buyer persona](./2.-buyerPersona.png)
+  - [Toma de requerimientos](./1.-Reqierimientos.pdf)
+  - [Crea tu buyer persona](./2,-buyerPersona.png)
   - [Publico objetivo](./3.-publicoObjetivo.png)
   - [Crea tu primer Wireframe UX](https://www.figma.com/file/cbvi7hyuqyVgOKn9pCqRES/Abogabot?node-id=0%3A1)
   - [Ahora el UI](https://www.figma.com/file/cbvi7hyuqyVgOKn9pCqRES/Abogabot?node-id=0%3A1)
